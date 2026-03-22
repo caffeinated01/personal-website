@@ -66,6 +66,11 @@ export const profileConfig: ProfileConfig = {
       url: "https://github.com/caffeinated01",
     },
     {
+      name: "Discord",
+      icon: "fa6-brands:discord",
+      url: "https://discord.com/users/936599148633931806",
+    },
+    {
       name: "Linkedin",
       icon: "fa6-brands:linkedin",
       url: "https://www.linkedin.com/in/javier-lim-45818735b/",
