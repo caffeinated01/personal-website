@@ -1,7 +1,7 @@
 ---
 title: Hello, World!
 published: 2026-03-23
-description: My first blog post.
+description: My first blog post
 tags: []
 category: General
 draft: false
