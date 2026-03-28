@@ -5,7 +5,7 @@ description: Writeup for challenges I solved during NCO 2026
 image: ./cover.jpeg
 tags: [Cybersecurity, CTF, Writeup]
 category: Cybersecurity
-draft: true
+draft: false
 ---
 
 _Cover: Team Raffles at NCO 2026_
