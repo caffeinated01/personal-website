@@ -10,7 +10,7 @@ draft: false
 
 _Cover: Team Raffles at NCO 2026_
 
-# What is NCO 2026?
+# Overview
 
 The National Cybersecurity Olympiad (NCO) is Singapore’s student cybersecurity pipeline, and I took part in its 2nd iteration this year. Participants have to go through qualifiers before taking part in the finals. Fortunately, I managed to land a spot to represent my school. \
 The finals were very chaotic and intense. During the 5 hour CTF, the competition infrastructure went down a few times, and I ended up waiting around a cumulative 1 hour even after the 30 minute extension they gave. I tried to preserve momentum throughout, but there were points in time where I could not even access the internet due to problems with routing (participants were connected to NCO infrastructure via LAN). \
