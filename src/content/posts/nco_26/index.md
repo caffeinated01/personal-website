@@ -12,8 +12,10 @@ _Cover: Team Raffles at NCO 2026_
 
 # Overview
 
-The National Cybersecurity Olympiad (NCO) is Singapore’s student cybersecurity pipeline, and I took part in its 2nd iteration this year. Participants have to go through qualifiers before taking part in the finals. Fortunately, I managed to land a spot to represent my school. \
-The finals were very chaotic and intense. During the 5 hour CTF, the competition infrastructure went down a few times, and I ended up waiting around a cumulative 1 hour even after the 30 minute extension they gave. I tried to preserve momentum throughout, but there were points in time where I could not even access the internet due to problems with routing (participants were connected to NCO infrastructure via LAN). \
+The National Cybersecurity Olympiad (NCO) is Singapore’s student cybersecurity pipeline, and I took part in its 2nd iteration this year. Participants have to go through qualifiers before taking part in the finals. Fortunately, I managed to land a spot to represent my school.
+
+The finals were very chaotic and intense. During the 5 hour CTF, the competition infrastructure went down a few times, and I ended up waiting around a cumulative 1 hour even after the 30 minute extension they gave. I tried to preserve momentum throughout, but there were points in time where I could not even access the internet due to problems with routing (participants were connected to NCO infrastructure via LAN).
+
 I managed to place 18th (out of 61 competitive plus 29 non-competitive players) and clinched a bronze medal. Though I am proud of this achievement, there are certainly improvements to be made. One more solve could have pushed me up to the silver cutoff, and I was extremely close to solving a web challenge. That being said, here are the writeups of challenges I managed to solve (and upsolve as of 5 hours after the competition).
 
 # Writeups
