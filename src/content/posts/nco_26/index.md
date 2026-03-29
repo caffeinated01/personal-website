@@ -268,7 +268,7 @@ The exploit lies in how the config uses `path_beg` which evaluates the prefix of
 
 During the contest, I got to this point but couldn't run commands. Everytime I sent something with the console UI, it would return an error. I realised afterwards that this was due to how browsers interpret URIs beginning with `//` as protocol relative network URLs meaning it tries to contact a domain/host named `api` rather than maintaining the current host. This triggers a network-level fetch failure, which the code catches and outputs.
 
-Another way to bypass the ACL could be using `http://localhost:8080/%2fapi/console`. However, this would not work too because of how the code was written. Let's take a look:
+Another way to bypass the ACL could be using `/%2fapi/console`. However, even if I could access the console, this would not work too because of how the code was written. Let's take a look:
 
 ```js
 // frontend
