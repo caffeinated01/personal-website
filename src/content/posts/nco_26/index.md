@@ -212,7 +212,7 @@ x0 = (inv(a) * (x1 - b)) % p
 print(x0)
 ```
 
-## Leaguerant - Admin (HTTP Request Smuggling)
+## Leaguerant - Admin (Part 2)
 
 This is part 2 of a challenge that uses the same source code. Solving part 2 also allows you to get the flag for part 1 (not sure if it was intended). Unfortunately, I did not solve this during the contest, but I came really close.
 
