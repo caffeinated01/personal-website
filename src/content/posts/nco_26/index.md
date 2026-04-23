@@ -338,4 +338,4 @@ curl -s -X POST 'http://http://chal.nco.sg:13001//api/console' -H 'Content-Type:
 
 # Thoughts
 
-All in all, NCO 2026 was a fun experience for me, besides the hiccups on the infrastructure side. For someone relatively new to cyber, I did pretty well. Being so close yet so far to solving [Leaguerant](#leaguerant) was a bummer though. I'm looking forward to upcoming CTFs, and hopefully I'll get some writeups done for them too.
+All in all, NCO 2026 was a fun experience for me, besides the hiccups on the infrastructure side. For someone relatively new to cyber, I did pretty well. Being so close yet so far to solving [Leaguerant](#leaguerant---admin-part-2) was a bummer though. I'm looking forward to upcoming CTFs, and hopefully I'll get some writeups done for them too.
